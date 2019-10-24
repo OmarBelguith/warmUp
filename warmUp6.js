@@ -5,6 +5,7 @@
  function mult(n) {
  // your code is here
 }
+// blabla
 
 // 2- Use a while loop to build a single string with the numbers 1 through n
 // separated by the number next to the current number. 

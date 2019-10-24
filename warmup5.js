@@ -7,3 +7,4 @@
 //     -calculate the number of male friends that your class have by writing a function called nbOfMale.
 //     -Write a function searchMates that, given a query and an array of Mates,
 //           searches the array of mates for "matching" mate. You will decide what way you want to write your search algorithm.
+// blabla
